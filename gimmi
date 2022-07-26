@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <!--meta element si "charset" ( il cheama caracter)
+  linia (<meta charset="utf-8">) ofera elemente extra sau date asociate unui
+document HTMl, in acest caz ii spune websitului cand deschide acest fisier
+ca este codat folosind UTF-8 encoding system practic cu acel utf-8 faci un site
+corect intr-un browser din punct de vedere lingvistic cu caractere corecte -->
+    <title> ⭐Gimmi's site </title>
+  </head>
+  <!-- tot ce tine de HEAD, este partea din HTML care tine informatia despre
+pagina web si ii spune websit-ului cum ar trebui sa gestioneze pagina-->
+  <body>
+    <!-- cand vrem sa punem un spatiu intre tabel si ce avem in stanga lui,
+    folosim la codul <table> si atributul <table cellspacing="20"-->
+    <table cellspacing="20">
+      <tr>
+        <td><img src="gimmi 2.png" alt=""></td>
+        <td><h1> Gimmi</h1>
+        <strong> <p> Agent de vanzari</i>
+      </tr>
+    </table>
+<!--codul pentru imagine este ( <img src= ) si aici intre apostrofuri punem sursa
+imaginii, link. Pentru a pune o imagine asociata stergem linkul si folosim
+numele de unde este sursa-->
+    <!--am pus scris italic si bolduit in sectiunea paragraf,
+  codul <i> este pentru scris italic, iar codul <strong> este pentru scris
+bolduit -->
+<p>Sun un tip foarte harnic si imi palce munca in echipa. Culoarea mea favorita este roz.  </p>
+<!--am adaugat si linia orizontala codul este <hr> -->
+<!--* de tinut minte* pentru ce am scris mai sus in <h3> nu mai este nevoie
+sa pun un alt paragraf pentru ca deja sunt in interiorul lui incepand de la "eu
+sunt un agent de vanzari"-->
+<i><h2> Despre mine :</h4></i>
+<li>sunt foarte creativ</li>
+<li>imi place munca in echipa </li>
+<hr>
+<h3>Experienta</h3>
+<!--Atribut nou  border="1"  asta se puna in cadru codului <table border="1"-->
+<!--ne ajuta sa punem linii si sa facem un tabel adevarat -->
+<table cellspacing="10">
+  <thead>
+    <tr>
+      <th>Nume Companie</th>
+      <th>Data activitate</th>
+
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+  <tfoot>
+
+  </tfoot>
+  <tr>
+  </tr>
+  <td>Repka Electronics (Orange)</td>
+  <td>sept. 2017 - sept. 2018</td>
+  <tr>
+<td>Active Power Solution (Telekom B2B)</td>
+<td> mai 2020 - oct. 2021</td>
+  </tr>
+  <tr>
+    <td>Vodafone Romania</td>
+    <td> oct. 2020 - Prezent</td>
+  </tr>
+</table>
+<br>
+<h3>Aptitudini</h3>
+<!--atributul cellspacing=""> il punem in fata codului <table> pentru a oferii
+spatiu-->
+<table cellspacing="10">
+  <tr>
+    <td>Creativitate⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>Adaptabilitate⭐⭐⭐⭐</td>
+  </tr>
+<td>Simt estetic⭐⭐⭐⭐⭐</td>
+<tr>
+  <td>HTML 5 ⭐</td>
+</tr>
+</table>
+<!--Cand vrem sa creem un "tabel imaginar"( formatul informatiei arata ca un
+tabel) si folosim codurile  <table> inside punem  <thead>= cap tabel
+<tr>= table row   si inside punem codul  <th>= table header cell, iar inside
+scriem ce dorim sa avem ca si "cap tabel") mai avem codurile
+<tbody> = corp
+<tfoot> -->
+<h2> Hobiurile mele</h2>
+<p>Imi plac calatoriile</p>
+</ol>
+<!--* NOTE TO SELF* cod nou ( <a href="#"></a> ) este pentru a pune un link
+ in pagina web care ne duce la locul de unde am preluat linkul,
+atributul "herf" ne arata destinatia linkului, iar <a> linkul in sine -->
+<!--in interiorul listei daca avem o lista adaugam codul ( <a href="#"></a> )
+si punem linkul dorit, asa avem un singur cuvant care ne duce la linkul pe care
+l-am pus in cod -->
+<p><h2><a href="file:///C:/Web%20Development/HTML-informatii%20contact/index.html">Informatii contact</a></h2></p>
+<!--atributul <ul> este o lista la care trebuie sa adaugam mereu subatributul
+<li> de la lista. il folosim atunci cand vrem sa avem lista subpunctata, iar
+cand vrem sa avem o lista numerotata adaugam atributul <ol>, iar mai apoi
+subatributul <li> de la lista -->
+<!--NOTE TO SELF!! - NU IMI IESE SA PUN DISTANTA INTRE 2 CUVINTE CAND FAC UN TABEL -->
+<!--CU CODURILE <table>  <thead>  <tr>  <th> *** DE REZOLVAT*** -->
+ </body>
